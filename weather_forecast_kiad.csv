@@ -1,0 +1,46 @@
+query_time,forecast_type,start_time,end_time,winds_symbol,winds_direction,winds_speed,winds_units,visibility,visibility_symbol,significant_weather,turbulence_layers,icing_layers,barometric_pressure,clouds_coverage,clouds_altitude
+2025-05-12T18:38:07Z,forecast,2025-05-12T18:00:00Z,,13008KT,130,8,KT,unlimited,P6SM,,,,,few,6000
+2025-05-12T18:38:07Z,from,2025-05-12T23:00:00Z,,15008KT,150,8,KT,unlimited,P6SM,light rain_showers,,,,overcast,2000
+2025-05-12T18:38:07Z,from,2025-05-13T04:00:00Z,,14005KT,140,5,KT,5,5SM,"light rain_showers, mist",,,,broken,900
+2025-05-12T18:38:07Z,from,2025-05-13T10:00:00Z,,11007KT,110,7,KT,4,4SM,"rain_showers, mist",,,,scattered,400
+2025-05-12T18:38:07Z,from,2025-05-13T15:00:00Z,,12010G18KT,120,10,KT,3,3SM,"rain_showers, mist",,,,overcast,600
+2025-05-11T18:38:07Z,forecast,2025-05-11T18:00:00Z,,VRB03KT,variable,3,KT,unlimited,P6SM,,,,,broken,25000
+2025-05-11T18:38:07Z,from,2025-05-11T21:00:00Z,,12005KT,120,5,KT,unlimited,P6SM,,,,,broken,25000
+2025-05-11T18:38:07Z,from,2025-05-12T04:00:00Z,,08004KT,80,4,KT,unlimited,P6SM,,,,,broken,25000
+2025-05-11T18:38:07Z,from,2025-05-12T15:00:00Z,,15005KT,150,5,KT,unlimited,P6SM,,,,,broken,7000
+2025-05-11T18:38:07Z,from,2025-05-12T20:00:00Z,,15007KT,150,7,KT,unlimited,P6SM,light rain_showers,,,,broken,2500
+2025-05-11T18:38:07Z,from,2025-05-12T23:00:00Z,,14006KT,140,6,KT,5,5SM,"light rain_showers, mist",,,,broken,1500
+2025-05-10T18:38:07Z,forecast,2025-05-10T18:00:00Z,,29008KT,290,8,KT,unlimited,P6SM,,,,,few,25000
+2025-05-10T18:38:07Z,from,2025-05-10T21:00:00Z,,32008KT,320,8,KT,unlimited,P6SM,,,,,few,25000
+2025-05-10T18:38:07Z,from,2025-05-11T00:00:00Z,,22003KT,220,3,KT,unlimited,P6SM,,,,,scattered,25000
+2025-05-10T18:38:07Z,from,2025-05-11T13:00:00Z,,VRB04KT,variable,4,KT,unlimited,P6SM,,,,,scattered,25000
+2025-05-09T18:38:07Z,forecast,2025-05-09T18:00:00Z,,33012G20KT,330,12,KT,unlimited,P6SM,vicinity_showers,,,,broken,1000
+2025-05-09T18:38:07Z,from,2025-06-09T18:30:00Z,,33012G20KT,330,12,KT,unlimited,P6SM,,,,,broken,3500
+2025-05-09T18:38:07Z,from,2025-06-09T23:00:00Z,,34008KT,340,8,KT,unlimited,P6SM,,,,,scattered,4500
+2025-05-09T18:38:07Z,from,2025-06-10T06:00:00Z,,31005KT,310,5,KT,unlimited,P6SM,,,,,few,4500
+2025-05-09T18:38:07Z,from,2025-06-10T14:00:00Z,,31013G23KT,310,13,KT,unlimited,P6SM,,,,,few,450000
+2025-05-09T18:38:07Z,from,2025-06-10T23:00:00Z,,31006KT,310,6,KT,unlimited,P6SM,,,,,scattered,25000
+2025-05-08T18:38:07Z,forecast,2025-05-08T18:00:00Z,,19002KT,190,2,KT,unlimited,P6SM,,,,,broken,5000
+2025-05-08T18:38:07Z,from,2025-05-08T21:00:00Z,,14003KT,140,3,KT,unlimited,P6SM,,,,,broken,5000
+2025-05-08T18:38:07Z,tempo,2025-05-08T21:00:00Z,2025-05-09T03:00:00Z,,,,,4,4SM,light thunderstorms_and_rain,,,,overcast,4000
+2025-05-08T18:38:07Z,from,2025-05-09T03:00:00Z,,03004KT,30,4,KT,5,5SM,mist,,,,overcast,2000
+2025-05-08T18:38:07Z,tempo,2025-05-09T03:00:00Z,2025-05-09T07:00:00Z,,,,,2,2SM,light rain_showers,,,,overcast,1500
+2025-05-08T18:38:07Z,from,2025-05-09T07:00:00Z,,01007KT,10,7,KT,5,5SM,light rain_showers,,,,overcast,1500
+2025-05-07T18:38:07Z,forecast,2025-05-07T18:00:00Z,,32010G19KT,320,10,KT,unlimited,P6SM,,,,,broken,4000
+2025-05-07T18:38:07Z,from,2025-05-07T23:00:00Z,,02005KT,20,5,KT,unlimited,P6SM,,,,,broken,4500
+2025-05-07T18:38:07Z,from,2025-05-08T02:00:00Z,,06003KT,60,3,KT,unlimited,P6SM,,,,,broken,4500
+2025-05-07T18:38:07Z,from,2025-05-08T15:00:00Z,,05003KT,50,3,KT,unlimited,P6SM,,,,,scattered,4000
+2025-05-07T18:38:07Z,from,2025-05-08T21:00:00Z,,12004KT,120,4,KT,unlimited,P6SM,,,,,broken,4500
+2025-05-07T18:38:07Z,tempo,2025-05-08T21:00:00Z,2025-05-09T00:00:00Z,,,,,,,light thunderstorms_and_rain,,,,broken,4500
+2025-05-06T18:38:07Z,forecast,2025-05-06T18:00:00Z,,24008G16KT,240,8,KT,unlimited,P6SM,,,,,scattered,8000
+2025-05-06T18:38:07Z,tempo,2025-05-06T18:00:00Z,2025-05-06T21:00:00Z,,,,,3,3SM,light thunderstorms_and_rain,,,,broken,2500
+2025-05-06T18:38:07Z,from,2025-05-07T00:00:00Z,,VRB03KT,variable,3,KT,unlimited,P6SM,,,,,broken,7000
+2025-05-06T18:38:07Z,from,2025-05-07T14:00:00Z,,29008G16KT,290,8,KT,unlimited,P6SM,,,,,scattered,5000
+2025-05-05T18:38:07Z,forecast,2025-05-05T18:00:00Z,,11006KT,110,6,KT,unlimited,P6SM,light rain_showers,,,,broken,1500
+2025-05-05T18:38:07Z,tempo,2025-05-05T18:00:00Z,2025-05-05T22:00:00Z,,,,,4,4SM,"light thunderstorms_and_rain, mist",,,,broken,2500
+2025-05-05T18:38:07Z,from,2025-05-05T22:00:00Z,,12007KT,120,7,KT,unlimited,P6SM,"light rain_showers, vicinity_thunderstorms",,,,broken,1500
+2025-05-05T18:38:07Z,tempo,2025-05-05T22:00:00Z,2025-05-06T02:00:00Z,,,,,4,4SM,light thunderstorms_and_rain,,,,overcast,1500
+2025-05-05T18:38:07Z,from,2025-05-06T06:00:00Z,,00000KT,0,0,KT,4,4SM,mist,,,,scattered,3500
+2025-05-05T18:38:07Z,from,2025-05-06T08:00:00Z,,00000KT,0,0,KT,5,5SM,mist,,,,broken,300
+2025-05-05T18:38:07Z,from,2025-05-06T14:00:00Z,,20004KT,200,4,KT,unlimited,P6SM,,,,,broken,1000
+2025-05-05T18:38:07Z,from,2025-05-06T17:00:00Z,,20007KT,200,7,KT,unlimited,P6SM,,,,,few,6000
