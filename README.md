@@ -29,15 +29,6 @@ kafka_weather_consumer.py           - Weather data consumer
 enrich_flights.py                   - Script to join flights with weather  
 dashboard.py                        - Dash app for visualization  
 
-## Getting Started
-
-### Install Dependencies
-pip install -r requirements.txt  
-
-### Start Kafka
-Ensure you have Apache Kafka and Zookeeper running locally:  
-bin/zookeeper-server-start.sh config/zookeeper.properties  
-bin/kafka-server-start.sh config/server.properties  
 
 ### Run Producers and Consumers
 python kafka_producer.py  
@@ -47,11 +38,6 @@ python kafka_weather_consumer.py
 
 ### Enrich Flight Data
 python enrich_flights.py  
-
-### Launch Dashboard
-python dashboard.py  
-
-Then open the dashboard in your browser at http://127.0.0.1:8050/  
 
 ## Results
 - Built a scalable streaming pipeline for flight and weather integration  
