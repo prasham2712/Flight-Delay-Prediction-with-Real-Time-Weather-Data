@@ -59,6 +59,3 @@ python enrich_flights.py
 
 ## Author
 Prasham Shah  
-Graduate Student, University of Maryland  
-LinkedIn: https://www.linkedin.com  
-GitHub: https://github.com  
